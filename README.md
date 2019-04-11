@@ -1,6 +1,6 @@
 ## LyricsFinder - React App
 
-git clone 
+git clone https://github.com/Noyha/lyrics_finder_app.git
 
 npm install
 
